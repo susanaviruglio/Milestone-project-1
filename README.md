@@ -11,7 +11,8 @@ Some potencial features to include are:
 
 
 
-#Home
+# Home
+
 page
 Firstly in my first page you will find the home page (header) where I will describe the purpose of this website. I will add the principal header with a background picture. 
 Then I will add the menu buttons with the links of the different website pages: what to do (information of places to go and what to eat) contact or about us (information about how to get there and a form if the user has any enquire).
