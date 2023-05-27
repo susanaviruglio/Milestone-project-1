@@ -12,7 +12,7 @@ Some potencial features to include are:
 
 
 # UX
-. To provide 
+* To provide 
 
 
 
