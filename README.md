@@ -22,21 +22,18 @@ Some potencial features to include are:
 
 1. 
 
+# DESIGN EVOLUTION
 
+## Home
 
+In my first page you will find the home page (header) where I have described the purpose of this website with an introductory paragraph. I have added the principal header with a background picture. Beneath the principal image, I created the navigation menu with link of the three different web pages: what to do (information of places to go and what to eat) contact or about us (information about how to get there and a form if the user has any enquire).
 
-
-
-
-
-
-# Home
-
-page
-Firstly in my first page you will find the home page (header) where I will describe the purpose of this website. I will add the principal header with a background picture. 
-Then I will add the menu buttons with the links of the different website pages: what to do (information of places to go and what to eat) contact or about us (information about how to get there and a form if the user has any enquire).
-Underneath I will have my first section(h2) Welcome to Granada! with a paragraph description of the website and introduction.
+Underneath I will have my first section(h2) Welcome to Granada! with a paragraph description of the website and introduction attracting the user to know more about it. 
 
 (I have not decided yet this part)In my second section I will add a desmy next h2 named History & Culture where I will offer the reader a summary about the history of Granada. The reader will have the option of reading and learning so they will get information to get later on the discount.
+In my section area I have provided the user with some interesting activities to book in Granada. I have used Bootstrap to create the layout and some pictures.
+
+Finally I have created the footer where some link in social media and email with a copyright.
+
 In my last division I will add a small section with picture of my menu so the reader do not need to go back up and find the links to the next pages. In this way I consider it will attract the attention of the user and finally visit the other sites.
 Lastly the user will find a footer section with social links and some links with my contact, or more information.
