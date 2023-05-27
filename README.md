@@ -14,10 +14,11 @@ Some potencial features to include are:
 # UX AIMS
 
 * To attract  users between 25 and 45 years old who want to travel and get to know Granada, Spain.
-
 * To convince users to stay longer by providing images and an actractive design.
-
 * To provide users with a easy and quikly interaction site with all information.
+* To create a fully responsive design for several devices as desktop, ipad and phones, etc.
+
+
 
 
 
