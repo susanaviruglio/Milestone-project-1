@@ -18,6 +18,9 @@ Some potencial features to include are:
 * To provide users with a easy and quikly interaction site with all information.
 * To create a fully responsive design for several devices as desktop, ipad and phones, etc.
 
+# USER STORIES
+
+1. 
 
 
 
