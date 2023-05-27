@@ -1,5 +1,5 @@
-# milestone1
-Welcome!
+# Discover Granada
+## User Centric Frontend Development Milestone Project by Susana Viruglio
 This is Susana Viruglio's first Milestone project which it is based on a turistic website. The site's user goal are tourists who wish to visit Granada and they wish to know what to do , which activities they can book, places to eat.
 My principal goal is interested in attracting and retaining tourists so they can book activities or visit other links provided.
 Some potencial features to include are:
