@@ -24,7 +24,10 @@ Some potencial features to include are:
 
 # DESIGN EVOLUTION
 
-## Home
+## Home!
+[2023-05-27 (1)](https://github.com/susanaviruglio/Milestone-project-1/assets/127688431/f99842a6-7dc5-496d-aa94-5acefee3101d)
+My first wireframe for desktop.
+
 
 In my first page you will find the home page (header) where I have described the purpose of this website with an introductory paragraph. I have added the principal header with a background picture. Beneath the principal image, I created the navigation menu with link of the three different web pages: what to do (information of places to go and what to eat) contact or about us (information about how to get there and a form if the user has any enquire).
 
