@@ -30,7 +30,7 @@ My first wireframe for desktop.
 
 ### Header
 In my first page you will find the home page (header) where I described the purpose of this website with an introductory paragraph. I have added the principal header with a background picture. Beneath the principal image, I created the navigation menu with links of the three different web pages: what to do (information of places to go and what to eat) contact or about us (information about how to get there and a form if the user has any enquiry).
-###Section 1
+### Section 1
 Underneath I will have my first section(h2) Welcome to Granada! with a paragraph description of the website and introduction attracting the user to know more about it.
 
 ### Section 2
