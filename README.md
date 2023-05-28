@@ -1,7 +1,7 @@
 # Discover Granada
 ## User Centric Frontend Development Milestone Project by Susana Viruglio
 
-Discover Granada is a fictional tourist website that offers information about Granada: places to visit, book activities, places to eat, what to do and information. The idea of the project decoration came to me while I was actually visiting Granada on my holidays, I thought it could be a great idea to make my personal experience to life. As I was visiting this city I was collecting ideas for the project from every place I was visiting.
+Discover Granada is a fictional tourist website that offers information about Granada: places to visit, book activities, places to eat, what to do and information. The idea of the decoration project came to me while I was actually visiting Granada on my holidays, I thought it could be a great idea to bring my personal experience to life. As I was visiting this city I was collecting ideas for the project from every place I was visiting.
 My principal goal is interested in attracting and retaining tourists so they can book activities. 
 Some potencial features to include are:
 1. Photos ( views of places to go, places to visit,...).
