@@ -28,15 +28,15 @@ Some potencial features to include are:
 [2023-05-27 (1)](https://github.com/susanaviruglio/Milestone-project-1/assets/127688431/f99842a6-7dc5-496d-aa94-5acefee3101d)
 My first wireframe for desktop.
 
-
+### Header
 In my first page you will find the home page (header) where I have described the purpose of this website with an introductory paragraph. I have added the principal header with a background picture. Beneath the principal image, I created the navigation menu with link of the three different web pages: what to do (information of places to go and what to eat) contact or about us (information about how to get there and a form if the user has any enquire).
-
+###Section 1
 Underneath I will have my first section(h2) Welcome to Granada! with a paragraph description of the website and introduction attracting the user to know more about it. 
 
 (I have not decided yet this part)In my second section I will add a desmy next h2 named History & Culture where I will offer the reader a summary about the history of Granada. The reader will have the option of reading and learning so they will get information to get later on the discount.
 In my section area I have provided the user with some interesting activities to book in Granada. I have used Bootstrap to create the layout and some pictures.
 
 Finally I have created the footer where some link in social media and email with a copyright.
-
+### Section 2
 In my last division I will add a small section with picture of my menu so the reader do not need to go back up and find the links to the next pages. In this way I consider it will attract the attention of the user and finally visit the other sites.
 Lastly the user will find a footer section with social links and some links with my contact, or more information.
