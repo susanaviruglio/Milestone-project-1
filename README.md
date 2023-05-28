@@ -6,17 +6,17 @@ My principal goal is interested in attracting and retaining tourists so they can
 Some potencial features to include are:
 1. Photos ( views of places to go, places to visit,...).
 
-2. Provide information on places to go (map) locations, opening hours, book activities.
+2. Provide information on places to go (map) locations, opening hours, booking activities.
 
-3.Map of Granada which information about how to get there, tranporst. 
+3. A map of Granada with information about how to get there, transport. 
 
 
 # UX AIMS
 
-* To attract  users between 25 and 45 years old who want to travel and get to know Granada, Spain.
+* To attract users between 25 and 45 years old who want to travel and get to know Granada, Spain.
 * To convince users to stay longer by providing images and an actractive design.
-* To provide users with a easy and quikly interaction site with all information.
-* To create a fully responsive design for several devices as desktop, ipad and phones, etc.
+* To provide users with an easy and quick interaction website with all the information.
+* To create a fully responsive design for several devices as desktop, tablets and phones, etc.
 
 # USER STORIES
 
@@ -29,7 +29,7 @@ Some potencial features to include are:
 My first wireframe for desktop.
 
 ### Header
-In my first page you will find the home page (header) where I have described the purpose of this website with an introductory paragraph. I have added the principal header with a background picture. Beneath the principal image, I created the navigation menu with link of the three different web pages: what to do (information of places to go and what to eat) contact or about us (information about how to get there and a form if the user has any enquire).
+In my first page you will find the home page (header) where I described the purpose of this website with an introductory paragraph. I have added the principal header with a background picture. Beneath the principal image, I created the navigation menu with links of the three different web pages: what to do (information of places to go and what to eat) contact or about us (information about how to get there and a form if the user has any enquiry).
 ###Section 1
 Underneath I will have my first section(h2) Welcome to Granada! with a paragraph description of the website and introduction attracting the user to know more about it. 
 
